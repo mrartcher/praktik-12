@@ -16,4 +16,4 @@
 <img src='imgs/exe_last.png'>
 
 
-by. Magist <b>(Artem Cherevko)</b>
+by. Magist 
